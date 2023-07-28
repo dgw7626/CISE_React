@@ -5,6 +5,11 @@
 /my-nest-project/node_modules
 /.pnp
 .pnp.js
+# tutorial 2
+
+/cise_ass1a_worksheet2/cise_ass1a_worksheet2/node_modules
+/cise_ass1a_worksheet2/cise_ass1a_worksheet2/.env
+/cise_ass1a_worksheet2/cise_ass1a_worksheet2-frontend/node_modules
 
 # testing
 /coverage
